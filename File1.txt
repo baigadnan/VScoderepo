@@ -1,1 +1,2 @@
 This is my VS Code File 1
+This is my second line in this File
